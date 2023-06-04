@@ -1,21 +1,7 @@
-# Travel Advisor
-
-![travel](https://user-images.githubusercontent.com/17198965/165286722-22606cf0-7c85-4c1a-b94d-7bcf8f2be5d1.png)
-
-![travel-advisor-sunny](https://user-images.githubusercontent.com/17198965/165285443-62b47f79-6b74-4908-bcf6-40d7634e379f.png)
-
-## Introduction
-An advanced Travel Companion Application using Google Maps. With Geolocation, Google Maps API, Searching for places, Fetching restaurants, hotels and attractions based on location from specialized Rapid APIs, data filtering and much more, this Travel Advisor App is one of the best Maps Application.
-
-- 🌐 Advanced React Best Practices such as folder & file structure, hooks and refs
-- 👨‍👩‍👧‍👦 Creating a User Interface using Material UI
-- 📦 Working with Google Maps API
-- 📝 Fetching data from unlimited sources using RapidAPI
-- ❄ Exclusive working with APIs
-
-[RapidAPI](https://rapidapi.com/hub?utm_source=youtube.com/JavaScriptMastery&utm_medium=DevRel&utm_campaign=DevRel)
-[Travel Advisor API](https://rapidapi.com/apidojo/api/travel-advisor?utm_source=youtube.com/JavaScriptMastery&utm_medium=DevRel&utm_campaign=DevRel)
-[Open Weather Map API](https://rapidapi.com/community/api/open-weather-map?utm_source=youtube.com/JavaScriptMastery&utm_medium=DevRel&utm_campaign=DevRel)
-
-Setup: run ```npm i && npm start``` to start the development server
-
+![Screenshot (885)](https://github.com/Yash084/ExploreMe/assets/91718061/7c178493-0fad-4b93-9d7a-83ca106fe9b2)
+![Screenshot (886)](https://github.com/Yash084/ExploreMe/assets/91718061/14f34084-5fb8-4f89-84d8-d47d65f96319)
+![Screenshot (887)](https://github.com/Yash084/ExploreMe/assets/91718061/e27e2b56-d707-486a-9e8c-adf4b207aeb0)
+![Screenshot (888)](https://github.com/Yash084/ExploreMe/assets/91718061/d30e089d-d825-4781-b271-73670f576515)
+![Screenshot (889)](https://github.com/Yash084/ExploreMe/assets/91718061/b21554e4-6349-4ea6-b42c-19ad8cafb12e)
+![Screenshot (887)](https://github.com/Yash084/ExploreMe/assets/91718061/bb777f2a-b50c-4e31-8d03-d472bfed656f)
+![Screenshot (890)](https://github.com/Yash084/ExploreMe/assets/91718061/80b9031b-fce4-49e6-8ba8-44f4e9471ba9)
